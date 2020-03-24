@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89aa2172-a1ae-4d58-9cf0-9e2b9c3e0e2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KarpenkoMaximHomeWorkForGit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/KarpenkoMaximHomeWorkForGit/by/academy/HomeWork6/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/KarpenkoMaximHomeWorkForGit/by/academy/HomeWork6/Task1/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/KarpenkoMaximHomeWorkForGit/by/academy/HomeWork6/Task2/CalculatorWithOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/KarpenkoMaximHomeWorkForGit/by/academy/HomeWork6/Test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/META-INF/test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/by/academy/HomeWork6/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/by/academy/HomeWork6/Task1/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/by/academy/HomeWork6/Task2/CalculatorWithOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test/by/academy/HomeWork6/Task2/a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/HomeWork6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/HomeWork6/Task1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/HomeWork6/Task2/CalculatorWithOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/HomeWork6/Test/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZRpPlzJ4leIEDbWgT0VG15f5xo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\other\git_idea\test\src\by\academy\HomeWork6\Test" />
+      <recent name="D:\other\git_idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.HomeWork6.Main" />
+      <module name="KarpenkoMaximHomeWorkForGit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.HomeWork6.Task2.a" />
+      <module name="KarpenkoMaximHomeWorkForGit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.academy.HomeWork6.Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89aa2172-a1ae-4d58-9cf0-9e2b9c3e0e2d" name="Default Changelist" comment="" />
+      <created>1584811738315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584811738315</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="149" key="#com.intellij.ide.util.ExportDialog" timestamp="1584895171528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="399" y="149" key="#com.intellij.ide.util.ExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1584895171528" />
+    <state x="67" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584892092991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="67" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1584892092991" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585031867460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585031867460" />
+    <state width="1492" height="252" key="GridCell.Tab.0.bottom" timestamp="1585032673349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585032673349" />
+    <state width="1492" height="252" key="GridCell.Tab.0.center" timestamp="1585032673349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585032673349" />
+    <state width="1492" height="252" key="GridCell.Tab.0.left" timestamp="1585032673349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585032673349" />
+    <state width="1492" height="252" key="GridCell.Tab.0.right" timestamp="1585032673349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585032673349" />
+    <state width="1492" height="209" key="GridCell.Tab.1.bottom" timestamp="1584895188304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="209" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584895188304" />
+    <state width="1492" height="209" key="GridCell.Tab.1.center" timestamp="1584895188304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="209" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584895188304" />
+    <state width="1492" height="209" key="GridCell.Tab.1.left" timestamp="1584895188304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="209" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584895188304" />
+    <state width="1492" height="209" key="GridCell.Tab.1.right" timestamp="1584895188304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="209" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584895188304" />
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584899943101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584899943101" />
+  </component>
+</project>
