@@ -3,7 +3,7 @@ package by.academy.HomeWork6.Test;
 import by.academy.HomeWork6.Task2.CalculatorWithOperator;
 
 import java.io.Serializable;
-
+//Ou
 public class Test {//для решений
     public static void main(String[] args) {
         System.out.println(extractionOfRoots(27, 0));
